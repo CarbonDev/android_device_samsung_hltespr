@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_hlte-common",
+    "target_path": "device/samsung/hlte-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "gh",
+    "repository": "TheMuppets/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-11.0"
+  }
+]
